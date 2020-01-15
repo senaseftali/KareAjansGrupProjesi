@@ -1,0 +1,16 @@
+C:\Users\dell\Desktop\KareAjans\KareAjans\KareAjans.Entities\bin\Debug\KareAjans.Entities.dll
+C:\Users\dell\Desktop\KareAjans\KareAjans\KareAjans.Entities\bin\Debug\KareAjans.Entities.pdb
+C:\Users\dell\Desktop\KareAjans\KareAjans\KareAjans.Entities\obj\Debug\KareAjans.Entities.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\KareAjans\KareAjans\KareAjans.Entities\obj\Debug\KareAjans.Entities.dll
+C:\Users\dell\Desktop\KareAjans\KareAjans\KareAjans.Entities\obj\Debug\KareAjans.Entities.pdb
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjans\KareAjans\KareAjans.Entities\bin\Debug\KareAjans.Entities.dll
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjans\KareAjans\KareAjans.Entities\bin\Debug\KareAjans.Entities.pdb
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjans\KareAjans\KareAjans.Entities\obj\Debug\KareAjans.Entities.csprojAssemblyReference.cache
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjans\KareAjans\KareAjans.Entities\obj\Debug\KareAjans.Entities.csproj.CoreCompileInputs.cache
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjans\KareAjans\KareAjans.Entities\obj\Debug\KareAjans.Entities.dll
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjans\KareAjans\KareAjans.Entities\obj\Debug\KareAjans.Entities.pdb
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.Entities\bin\Debug\KareAjans.Entities.dll
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.Entities\bin\Debug\KareAjans.Entities.pdb
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.Entities\obj\Debug\KareAjans.Entities.csprojAssemblyReference.cache
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.Entities\obj\Debug\KareAjans.Entities.dll
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.Entities\obj\Debug\KareAjans.Entities.pdb

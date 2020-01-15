@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3EF385DB-D531-4691-9338-30EDC7CEA574}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>KareAjans.UI</RootNamespace>
+    <AssemblyName>KareAjans.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmManken.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmManken.Designer.cs">
+      <DependentUpon>frmManken.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMuhasebe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMuhasebe.Designer.cs">
+      <DependentUpon>frmMuhasebe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmOrganizasyon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmOrganizasyon.Designer.cs">
+      <DependentUpon>frmOrganizasyon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmOrganizasyonDetayEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmOrganizasyonDetayEkle.Designer.cs">
+      <DependentUpon>frmOrganizasyonDetayEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmOrganizasyonEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmOrganizasyonEkle.Designer.cs">
+      <DependentUpon>frmOrganizasyonEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMankenListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMankenListele.Designer.cs">
+      <DependentUpon>frmMankenListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmManken.resx">
+      <DependentUpon>frmManken.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMuhasebe.resx">
+      <DependentUpon>frmMuhasebe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmOrganizasyon.resx">
+      <DependentUpon>frmOrganizasyon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmOrganizasyonDetayEkle.resx">
+      <DependentUpon>frmOrganizasyonDetayEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmOrganizasyonEkle.resx">
+      <DependentUpon>frmOrganizasyonEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMankenListele.resx">
+      <DependentUpon>frmMankenListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KareAjans.BLL\KareAjans.BLL.csproj">
+      <Project>{2717B9D0-62C0-44F7-B40C-400D180FE5F0}</Project>
+      <Name>KareAjans.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KareAjans.DAL\KareAjans.DAL.csproj">
+      <Project>{6AE59C5F-E3D2-429C-A2C5-7FD0A77E1921}</Project>
+      <Name>KareAjans.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KareAjans.DTO\KareAjans.DTO.csproj">
+      <Project>{53A23FB8-A050-4750-BAF0-BD1B60093BED}</Project>
+      <Name>KareAjans.DTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KareAjans.Entities\KareAjans.Entities.csproj">
+      <Project>{90E35A9D-BA07-46DF-B25C-CAAE0E9A76AB}</Project>
+      <Name>KareAjans.Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

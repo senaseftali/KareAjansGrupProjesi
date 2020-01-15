@@ -1,0 +1,13 @@
+C:\Users\dell\Desktop\KareAjans\KareAjans\KareAjans.DTO\bin\Debug\KareAjans.DTO.dll
+C:\Users\dell\Desktop\KareAjans\KareAjans\KareAjans.DTO\bin\Debug\KareAjans.DTO.pdb
+C:\Users\dell\Desktop\KareAjans\KareAjans\KareAjans.DTO\obj\Debug\KareAjans.DTO.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\KareAjans\KareAjans\KareAjans.DTO\obj\Debug\KareAjans.DTO.dll
+C:\Users\dell\Desktop\KareAjans\KareAjans\KareAjans.DTO\obj\Debug\KareAjans.DTO.pdb
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.DTO\bin\Debug\KareAjans.DTO.dll
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.DTO\bin\Debug\KareAjans.DTO.pdb
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.DTO\bin\Debug\KareAjans.Entities.dll
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.DTO\bin\Debug\KareAjans.Entities.pdb
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.DTO\obj\Debug\KareAjans.DTO.csprojAssemblyReference.cache
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.DTO\obj\Debug\KareAjans.DTO.csproj.CopyComplete
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.DTO\obj\Debug\KareAjans.DTO.dll
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.DTO\obj\Debug\KareAjans.DTO.pdb

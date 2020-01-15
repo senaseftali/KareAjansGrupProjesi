@@ -1,0 +1,91 @@
+C:\Users\dell\Desktop\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DAL.dll.config
+C:\Users\dell\Desktop\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DAL.dll
+C:\Users\dell\Desktop\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DAL.pdb
+C:\Users\dell\Desktop\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DTO.dll
+C:\Users\dell\Desktop\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.Entities.dll
+C:\Users\dell\Desktop\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DTO.pdb
+C:\Users\dell\Desktop\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.Entities.pdb
+C:\Users\dell\Desktop\KareAjans\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\KareAjans\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.csproj.CopyComplete
+C:\Users\dell\Desktop\KareAjans\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.dll
+C:\Users\dell\Desktop\KareAjans\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.pdb
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DAL.dll.config
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DAL.dll
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DAL.pdb
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DTO.dll
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.Entities.dll
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DTO.pdb
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.Entities.pdb
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjans\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.csprojAssemblyReference.cache
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjans\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.csproj.CoreCompileInputs.cache
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjans\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.csproj.CopyComplete
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjans\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.dll
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjans\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.pdb
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DAL.dll.config
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DAL.dll
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DAL.pdb
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DTO.dll
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.Entities.dll
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DTO.pdb
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.Entities.pdb
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.csprojAssemblyReference.cache
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.csproj.CoreCompileInputs.cache
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.csproj.CopyComplete
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.dll
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.pdb
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DAL.dll.config
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DAL.dll
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DAL.pdb
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DTO.dll
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.Entities.dll
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DTO.pdb
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.Entities.pdb
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.csprojAssemblyReference.cache
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.csproj.CopyComplete
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.dll
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.pdb
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DAL.dll.config
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DAL.dll
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DAL.pdb
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DTO.dll
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.Entities.dll
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DTO.pdb
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.Entities.pdb
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.csprojAssemblyReference.cache
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.csproj.CoreCompileInputs.cache
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.csproj.CopyComplete
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.dll
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.pdb
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DAL.dll.config
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DAL.dll
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DAL.pdb
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DTO.dll
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.Entities.dll
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DTO.pdb
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.Entities.pdb
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.csprojAssemblyReference.cache
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.csproj.CopyComplete
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.dll
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.pdb
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DAL.dll.config
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DAL.dll
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DAL.pdb
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DTO.dll
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.Entities.dll
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.DTO.pdb
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.DAL\bin\Debug\KareAjans.Entities.pdb
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.csprojAssemblyReference.cache
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.csproj.CopyComplete
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.dll
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.DAL\obj\Debug\KareAjans.DAL.pdb
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.DAL\bin\Debug\KareAjans.DAL.dll.config
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.DAL\bin\Debug\KareAjans.DAL.dll
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.DAL\bin\Debug\KareAjans.DAL.pdb
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.DAL\bin\Debug\KareAjans.DTO.dll
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.DAL\bin\Debug\KareAjans.Entities.dll
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.DAL\bin\Debug\KareAjans.DTO.pdb
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.DAL\bin\Debug\KareAjans.Entities.pdb
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.DAL\obj\Debug\KareAjans.DAL.csprojAssemblyReference.cache
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.DAL\obj\Debug\KareAjans.DAL.csproj.CopyComplete
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.DAL\obj\Debug\KareAjans.DAL.dll
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.DAL\obj\Debug\KareAjans.DAL.pdb

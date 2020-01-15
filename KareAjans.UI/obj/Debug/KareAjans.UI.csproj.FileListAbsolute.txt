@@ -1,0 +1,216 @@
+C:\Users\dell\Desktop\KareAjansnedim\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\KareAjansnedim\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmLogin.resources
+C:\Users\dell\Desktop\KareAjansnedim\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmManken.resources
+C:\Users\dell\Desktop\KareAjansnedim\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmMuhasebe.resources
+C:\Users\dell\Desktop\KareAjansnedim\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Properties.Resources.resources
+C:\Users\dell\Desktop\KareAjansnedim\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.UI.exe.config
+C:\Users\dell\Desktop\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.UI.exe
+C:\Users\dell\Desktop\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.UI.pdb
+C:\Users\dell\Desktop\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.BLL.dll
+C:\Users\dell\Desktop\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DTO.dll
+C:\Users\dell\Desktop\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.Entities.dll
+C:\Users\dell\Desktop\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DAL.dll
+C:\Users\dell\Desktop\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.BLL.pdb
+C:\Users\dell\Desktop\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DTO.pdb
+C:\Users\dell\Desktop\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.Entities.pdb
+C:\Users\dell\Desktop\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DAL.pdb
+C:\Users\dell\Desktop\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DAL.dll.config
+C:\Users\dell\Desktop\KareAjansnedim\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csproj.CopyComplete
+C:\Users\dell\Desktop\KareAjansnedim\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.exe
+C:\Users\dell\Desktop\KareAjansnedim\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.pdb
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.UI.exe.config
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.UI.exe
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.UI.pdb
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.BLL.dll
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DAL.dll
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DTO.dll
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.Entities.dll
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.BLL.pdb
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DAL.pdb
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DAL.dll.config
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DTO.pdb
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjansnedim\KareAjans\KareAjans.UI\bin\Debug\KareAjans.Entities.pdb
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjansnedim\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csprojAssemblyReference.cache
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjansnedim\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmLogin.resources
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjansnedim\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmManken.resources
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjansnedim\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmMuhasebe.resources
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjansnedim\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Properties.Resources.resources
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjansnedim\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csproj.GenerateResource.cache
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjansnedim\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csproj.CoreCompileInputs.cache
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjansnedim\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csproj.CopyComplete
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjansnedim\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.exe
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjansnedim\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.pdb
+C:\Users\anil.yakupoglu\Desktop\Yeni klasör\KareAjansnedim\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmOrganizasyon.resources
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.UI.exe.config
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.UI.exe
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.UI.pdb
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.BLL.dll
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DAL.dll
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DTO.dll
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.Entities.dll
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.BLL.pdb
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DAL.pdb
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DAL.dll.config
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DTO.pdb
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.Entities.pdb
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csprojAssemblyReference.cache
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmLogin.resources
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmManken.resources
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmMuhasebe.resources
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmOrganizasyon.resources
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Properties.Resources.resources
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csproj.GenerateResource.cache
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csproj.CoreCompileInputs.cache
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csproj.CopyComplete
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.exe
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.pdb
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.UI.exe.config
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.UI.exe
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.UI.pdb
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.BLL.dll
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DAL.dll
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DTO.dll
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.Entities.dll
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.BLL.pdb
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DAL.pdb
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DAL.dll.config
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DTO.pdb
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\bin\Debug\KareAjans.Entities.pdb
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csprojAssemblyReference.cache
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmLogin.resources
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmManken.resources
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmMuhasebe.resources
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmOrganizasyon.resources
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Properties.Resources.resources
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csproj.GenerateResource.cache
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csproj.CopyComplete
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.exe
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.pdb
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.frmMankenNew.resources
+C:\Users\Anıl\Desktop\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.frmMankenListele.resources
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.UI.exe.config
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.UI.exe
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.UI.pdb
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.BLL.dll
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DAL.dll
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DTO.dll
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.Entities.dll
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.BLL.pdb
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DAL.pdb
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DAL.dll.config
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DTO.pdb
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.Entities.pdb
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csprojAssemblyReference.cache
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmLogin.resources
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmManken.resources
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmMuhasebe.resources
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmOrganizasyon.resources
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.frmMankenListele.resources
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.frmMankenNew.resources
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Properties.Resources.resources
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csproj.GenerateResource.cache
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csproj.CoreCompileInputs.cache
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csproj.CopyComplete
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.exe
+C:\Users\anil.yakupoglu\Desktop\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.pdb
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.UI.exe.config
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.UI.exe
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.UI.pdb
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.BLL.dll
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DAL.dll
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DTO.dll
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.Entities.dll
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.BLL.pdb
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DAL.pdb
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DAL.dll.config
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DTO.pdb
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.Entities.pdb
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csprojAssemblyReference.cache
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmLogin.resources
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmManken.resources
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmMuhasebe.resources
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmOrganizasyon.resources
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.frmMankenListele.resources
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Properties.Resources.resources
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csproj.GenerateResource.cache
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csproj.CopyComplete
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.exe
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.pdb
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmOrganizasyonDetayEkle.resources
+C:\Users\Anıl\Downloads\new\KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmOrganizasyonEkle.resources
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.UI.exe.config
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.UI.exe
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.UI.pdb
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.BLL.dll
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DAL.dll
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DTO.dll
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.Entities.dll
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.BLL.pdb
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DAL.pdb
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DAL.dll.config
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.DTO.pdb
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\bin\Debug\KareAjans.Entities.pdb
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csprojAssemblyReference.cache
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmLogin.resources
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmManken.resources
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmMuhasebe.resources
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmOrganizasyon.resources
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmOrganizasyonDetayEkle.resources
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmOrganizasyonEkle.resources
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.frmMankenListele.resources
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.Properties.Resources.resources
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csproj.GenerateResource.cache
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.csproj.CopyComplete
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.exe
+C:\Users\dell\Downloads\14.11.2019_KareAjans\14.11.2019_KareAjans\KareAjans\KareAjans.UI\obj\Debug\KareAjans.UI.pdb
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\bin\Debug\KareAjans.UI.exe.config
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\bin\Debug\KareAjans.UI.exe
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\bin\Debug\KareAjans.UI.pdb
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\bin\Debug\KareAjans.BLL.dll
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\bin\Debug\KareAjans.DAL.dll
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\bin\Debug\KareAjans.DTO.dll
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\bin\Debug\KareAjans.Entities.dll
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\bin\Debug\KareAjans.BLL.pdb
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\bin\Debug\KareAjans.DAL.pdb
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\bin\Debug\KareAjans.DAL.dll.config
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\bin\Debug\KareAjans.DTO.pdb
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\bin\Debug\KareAjans.Entities.pdb
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\obj\Debug\KareAjans.UI.csprojAssemblyReference.cache
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmLogin.resources
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmManken.resources
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmMuhasebe.resources
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmOrganizasyon.resources
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmOrganizasyonDetayEkle.resources
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmOrganizasyonEkle.resources
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\obj\Debug\KareAjans.UI.frmMankenListele.resources
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\obj\Debug\KareAjans.UI.Properties.Resources.resources
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\obj\Debug\KareAjans.UI.csproj.GenerateResource.cache
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\obj\Debug\KareAjans.UI.csproj.CopyComplete
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\obj\Debug\KareAjans.UI.exe
+C:\Users\Anıl\Desktop\KareAjansSunumYapilan\KareAjans.UI\obj\Debug\KareAjans.UI.pdb
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\bin\Debug\KareAjans.UI.exe.config
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\bin\Debug\KareAjans.UI.exe
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\bin\Debug\KareAjans.UI.pdb
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\bin\Debug\KareAjans.BLL.dll
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\bin\Debug\KareAjans.DAL.dll
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\bin\Debug\KareAjans.DTO.dll
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\bin\Debug\KareAjans.Entities.dll
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\bin\Debug\KareAjans.BLL.pdb
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\bin\Debug\KareAjans.DAL.pdb
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\bin\Debug\KareAjans.DAL.dll.config
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\bin\Debug\KareAjans.DTO.pdb
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\bin\Debug\KareAjans.Entities.pdb
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\obj\Debug\KareAjans.UI.csprojAssemblyReference.cache
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmLogin.resources
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmManken.resources
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmMuhasebe.resources
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmOrganizasyon.resources
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmOrganizasyonDetayEkle.resources
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\obj\Debug\KareAjans.UI.Forms.frmOrganizasyonEkle.resources
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\obj\Debug\KareAjans.UI.frmMankenListele.resources
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\obj\Debug\KareAjans.UI.Properties.Resources.resources
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\obj\Debug\KareAjans.UI.csproj.GenerateResource.cache
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\obj\Debug\KareAjans.UI.csproj.CopyComplete
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\obj\Debug\KareAjans.UI.exe
+C:\Users\Anıl\Desktop\KareAjansGrupProjesi\KareAjans.UI\obj\Debug\KareAjans.UI.pdb
